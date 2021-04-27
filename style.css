@@ -1,0 +1,23 @@
+body{
+    background-color: #4fbb51;
+    font-family: 'Freckle Face', cursive;
+    font-size: 50px;
+    color: #2d1707;
+    text-align: center;
+    background-image: url("https://images.hdqwalls.com/download/abstract-green-gradient-bs-1920x1080.jpg");
+}
+button {
+    display: inline-block;
+    background-color: #612dad;
+    border-radius: 10px;
+    border: solid 4px #2d1707;
+    color: #80e582;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    width: 200px;
+    font-family: 'Freckle Face', cursive;
+    letter-spacing: 2px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
